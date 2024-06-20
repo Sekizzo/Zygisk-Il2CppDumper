@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.dts.freefireth:"
+          description: "com.je.supersus:"
           required: true
 
 jobs:
